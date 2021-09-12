@@ -16,6 +16,7 @@
 сборка на выбор: cmake || gnuautotools || голый make
 
 Example usage:
+
 ![изображение](https://user-images.githubusercontent.com/60986727/132969543-92206ea3-5fb2-4bb8-9382-455875448d15.png)
 ![изображение](https://user-images.githubusercontent.com/60986727/132969546-d517f674-13a1-4c4e-93dd-6026ee6e89dc.png)
 
